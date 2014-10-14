@@ -8,6 +8,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public abstract class Element extends Actor
 {
-    public String toString() 
-    {
+    public String toString() {
+        return getClass().getName() + " " + getX() + " " + getY();
+    }
+}
         

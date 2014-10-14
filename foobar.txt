@@ -1,0 +1,11 @@
+Ground 256 158
+Ground 707 278
+Ground 238 486
+Ground 563 135
+Ground 533 391
+Ground 430 214
+Ground 907 55
+Sand 956 146
+Sand 884 387
+Sand 611 149
+Sand 495 279
